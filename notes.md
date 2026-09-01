@@ -6,3 +6,7 @@ Written By Skye
 - Discuss Git Basics 
 
 - Demonstrate Changes 
+
+## Links 
+- Team wiki: bitcube.team.bitcubetech/Team
+
