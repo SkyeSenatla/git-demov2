@@ -4,3 +4,5 @@ Written By Skye
 
 ## Agenda
 - Discuss Git Basics 
+
+- Demonstrate Changes 
